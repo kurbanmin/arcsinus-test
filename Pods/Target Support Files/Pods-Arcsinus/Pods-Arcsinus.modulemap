@@ -1,0 +1,6 @@
+framework module Pods_Arcsinus {
+  umbrella header "Pods-Arcsinus-umbrella.h"
+
+  export *
+  module * { export * }
+}
